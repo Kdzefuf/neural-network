@@ -1,1 +1,1 @@
-# neural-network
+# Нейросеть для классификации героев аниме One Punch Man
